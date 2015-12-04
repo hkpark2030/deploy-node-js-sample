@@ -33,7 +33,7 @@ Install `node-js-sample` and run an app.
 
 ######4. deploy-heroku.sh
 Deploy to `Heroku` from a new terminal. <br />
-Open the following web page by `heroku open` command with a registered free `Heroku` account. <br />
+Open the following web page by `heroku open` command with a registered `Heroku` account. <br />
 Finally check `heroku logs` for the reference.
 
 ######5. deploy-firewall-rules.sh
