@@ -1,6 +1,6 @@
-We can deploy a `Node.js` app, build and run it by `Heroku` platform in this project. The deployment environment is a stand alone `Ubuntu 14.04.3 LTS` which has internet connected. <br />
-There are five `.sh` scripts to deploy the `node-js-sample` source code which can be run from `2.start-node-js-sample.sh` if `git` is already installed. We can also deploy remotely through `SSH`, or deploy automatically by saving them as startup scripts when we make a template or a machine image.<br />
-  https://github.com/heroku/node-js-sample
+We can deploy a `Node.js` sample app, build and run it by `Heroku` platform in this project. The deployment environment is a stand alone `Ubuntu 14.04.3 LTS` which has the Internet connected. <br />
+There are five `.sh` scripts to deploy the `node-js-sample` source code which can be run from `2.start-node-js-sample.sh` if `git` is already installed. We can also deploy remotely over `SSH`, or deploy automatically by saving them as startup scripts when we make a template or a machine image.<br />
+https://github.com/heroku/node-js-sample
   1. deploy-git.sh
   2. start-node-js-sample.sh
   3. deploy-node-js.sh
