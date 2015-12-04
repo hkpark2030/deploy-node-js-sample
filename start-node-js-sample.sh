@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Clone assignment repository and call the scripts 
+# Clone deploy-node-js-sample repository and call the scripts 
 #git clone https://github.com/hkpark2030/deploy-node-js-sample.git
 #cd deploy-node-js-sample
 
