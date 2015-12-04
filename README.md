@@ -21,7 +21,7 @@ We can copy and paste this script in home directory and run to install git. <br 
   $bash deploy-git.sh
 
 ######2. start-node-js-sample.sh
-This script is the beginning of deployment process, which clones `assignment` repository and call three scripts from each terminal. <br />
+This script is the beginning of deployment process, which clones `deploy-node-js-sample` repository and call three scripts from each terminal. <br />
   $git clone https://github.com/hkpark2030/deploy-node-js-sample.git <br />
   $cd deploy-node-js-sample <br />
   $bash start-node-js-sample.sh
